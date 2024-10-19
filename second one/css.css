@@ -14,7 +14,7 @@ body {
 .stepe1
 {
     width: 200px;
-    height: 350px;
+    height: 200px;
     position: relative;
     transform-style: preserve-3d;
     animation: animate 20s linear infinite;
